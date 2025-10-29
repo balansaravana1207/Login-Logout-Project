@@ -1,7 +1,3 @@
-Of course. Here is a well-structured and comprehensive README.md file for your GitHub repository.
-
-You can copy the text below and paste it directly into a new file named README.md in your project.
-
 Login and Logout Module using Java Servlets and JSP
 
 A foundational web application project demonstrating a secure user authentication and session management system using Java Servlets and JSP.
